@@ -12,8 +12,7 @@ public class Coche extends Vehiculo {
         gasolina+=litros;
 
     }
-     super.acelerar();
-    gasolina*=0.9;
+
 
 }
 
